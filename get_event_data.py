@@ -91,8 +91,6 @@ while True:
         print(e)
         break
 
-print(results)
-
 outputFile = open("event_data.csv", 'w', encoding='UTF-8')  # load csv file
 data = json.loads(json.dumps(results),)  # load json content
 output = csv.writer(outputFile)  # create a csv.write

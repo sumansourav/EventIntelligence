@@ -1,3 +1,5 @@
+TODO: This is not the full project but only a module related to Event Intelligence. The project data visualization and insights link will be updated soon.
+
 # EventIntelligence
 This repository has a script to quickly extract event intelligence from a given location in a time frame.
 
